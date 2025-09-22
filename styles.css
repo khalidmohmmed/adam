@@ -1,0 +1,57 @@
+body{
+  background-color: rgb(121, 124, 120);
+}
+.continer{
+  background-color: rgb(255, 255, 255);
+  height: 500px;
+  width: 40vw;
+margin-top: 50px;
+  margin-left: 300px;
+  padding-left: 50px;
+}
+.wow{
+  display: flex;
+  margin-left: 1px;
+  padding-left: 10px;
+  margin-left: -61px;
+  margin-top: 20px;
+  
+}
+.box2{
+  background-color: rgb(4, 99, 94);
+  color: rgb(240, 240, 240);
+  width:300px ;
+  height: 326px;
+  margin-top: 15px;
+  padding-left: 10px; 
+
+
+}
+.box3{ 
+   background-color: rgb(3, 77, 71);
+   width: 310px;
+   height: 306px;
+   padding-left: 10px;
+   color: white;
+   padding-top: 20px;
+   margin-top: 15px;
+
+}
+.box2 button{
+  background-color: rgb(66, 128, 4);
+  color: white;
+  width: 250px;
+  height: 40px;
+  border: 1px solid rgb(72, 138, 7);
+  margin-top: 70px;
+  margin-left: 20px;
+  border-radius: 5px;
+  box-shadow: 5px 5px rgb(66, 138, 4);
+}
+.box2 button:hover{
+  background: rgb(66, 128, 4);
+  color: black;
+  border: 2px solid rgb(13, 19, 13);
+}
+
+  
